@@ -69,8 +69,7 @@ Abre la consola de desarrollador de tu navegador y envía un formulario Elemento
     }
   },
   page_url: 'https://tuweb.com/contacto',
-  timestamp: 1751034067374,
-  by: 'convertiam.com'
+  timestamp: 1751034067374
 }
 ```
 
@@ -116,7 +115,6 @@ Abre la consola de desarrollador de tu navegador y envía un formulario Elemento
   },
   page_url: 'https://tuweb.com/contacto',   // ← URL donde se envió
   timestamp: 1751034067374,                 // ← Timestamp Unix
-  by: 'convertiam.com'                      // ← Autoría
 }
 ```
 
@@ -486,7 +484,7 @@ Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICEN
 <div align="center">
   <strong>Hecho con ❤️ por <a href="https://convertiam.com">Convertiam.com</a></strong>
   <br>
-  <sub>Ayudando a empresas a optimizar conversiones desde 2020</sub>
+  <sub>Ayudando a empresas a optimizar conversiones desde 2010</sub>
 </div>
 
 ## 📞 Soporte
@@ -495,9 +493,6 @@ Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICEN
 
 **Obtén Soporte Experto:**
 - 🌐 Visita [convertiam.com](https://convertiam.com)
-- 📧 Email: info@convertiam.com
-- 💬 Agenda una consulta gratuita
-- 📱 WhatsApp: +34 XXX XXX XXX
 
 ### 💼 Consultoría Especializada
 
@@ -548,7 +543,7 @@ Nuestro equipo de expertos puede ayudarte con:
 | **Costo**      | Gratuito        | €50-200/año | €1000+ desarrollo |
 | **Rendimiento**| Mínimo impact   | Sobrecarga plugins | Variable |
 | **Personalización** | Total control | Limitada | Total |
-| **Soporte**    | github | Limitado | Dependes del dev |
+| **Soporte**    | Github | Limitado | Dependes del dev |
 | **Actualizaciones** | GitHub    | Automáticas | Manual |
 
 
